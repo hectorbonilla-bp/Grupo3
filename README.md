@@ -16,9 +16,9 @@ Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH del horario 
 
 **EDAD:** 17 años
 
-**PASATIEMPO:** 
+**PASATIEMPO:** Leer
 
-**ROL:**
+**ROL:** Cordinadora de grupo / lider de comunicacion
 
 **2.) Christian Jesús Arana Ocros**
 
@@ -29,7 +29,7 @@ Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH del horario 
 
 **PASATIEMPO:** Tocar piano
 
-**ROL:**
+**ROL:** logistica
 
 **3.) Enzo Viriato Salas Gutierrez**
 
@@ -40,7 +40,7 @@ Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH del horario 
 
 **PASATIEMPO:** Cocinar
 
-**ROL:**
+**ROL:** Control de calidad
 
 **4.) Valeria Tanushree Zúñiga Apolinario**
 
@@ -49,9 +49,9 @@ Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH del horario 
 
 **EDAD:** 18 años
 
-**PASATIEMPO:** 
+**PASATIEMPO:** Dibujar
 
-**ROL:**
+**ROL:** Diseñar
 
 **5.) Hector Guillermo Bonilla Pantoja**
 
@@ -62,7 +62,7 @@ Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH del horario 
 
 **PASATIEMPO:** Deportes de contacto
 
-**ROL:**
+**ROL:** Programar
 
 **6.) Cesar Augusto Ramos Ortega**
 
@@ -73,5 +73,5 @@ Somos estudiantes de la carrera de Ingeniería Biomédica PUCP-UPCH del horario 
 
 **PASATIEMPO:** Leer
 
-**ROL:**
+**ROL:** Gestor de materiales
 
